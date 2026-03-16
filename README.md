@@ -1,4 +1,4 @@
-## GrimXLock | tjcrims0nx
+# GrimXLock | tjcrims0nx
 > "Building autonomous agents and trapping demons in the silicon abyss."
 >
 > ![Mecha Banner](https://capsule-render.vercel.app/render?type=glitch&color=8B0000&height=300&section=header&text=ABADDON%20SYSTEM&fontSize=90&animation=fadeIn&fontAlignY=38)
@@ -16,11 +16,11 @@
 >     - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 >    
 >     - ### Connect with the Void
-> - **Discord:** `grimxlock`
+> - Discord: `grimxlock`
 >
 > - ---
 >
 > ### Legacy Archives
 > > Looking for my previous manifestations?
-> > - **Old Profile:** [ipwnosx](https://github.com/ipwnosx)
+> > - Old Profile: [ipwnosx](https://github.com/ipwnosx)
 > > - 
