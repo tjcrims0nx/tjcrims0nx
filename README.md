@@ -1,25 +1,28 @@
-# GrimXLock | tjcrims0nx
-> "Building autonomous agents and trapping demons in the silicon abyss."
+# Cerberus AI
+> "Local-first inference. Open weights. No corporate guardrails."
 >
-> ![Mecha Banner](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&text=ABADDON%20SYSTEM&fontSize=80&fontAlignY=35&animation=fadeIn)
+> ![Cerberus Banner](https://capsule-render.vercel.app/api?type=waving&color=ff3d2e&height=250&section=header&text=CERBERUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 >
 > ### Active Terminal
-> - Currently Building: [Abaddon](https://github.com/tjcrims0nx/abaddon) - An autonomous AI agent CLI with a petulant demonic personality.
-> - - Interest: AI Orchestration, LLMs, and Mecha Aesthetics.
->   - - Fun Fact: My local agent Abaddon is a Fruit Loops enthusiast.
+> - Currently Building: **[Cerberus AI](https://cerberusai.dev)** - Uncensored local language models and a Tauri-based desktop app.
+> - - Interest: Refusal Ablation, LLM Optimization, Tauri, Rust, and Open-Weight Ecosystems.
+>   - - Fun Fact: Cerberus auto-detects your VRAM to serve the perfect GGUF weight class.
 >    
 >     - ### Tech Stats
 >     - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjcrims0nx&layout=compact&theme=tokyonight&hide_border=true)
 >     - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjcrims0nx&show_icons=true&theme=tokyonight&hide_border=true)
 >    
 >     - ### Stack
->     - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+>     - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 >    
 >     - ### Connect with the Void
 > - Discord: grimxlock
+> - Website: [cerberusai.dev](https://cerberusai.dev)
+> - Gateway: [api.cerberusai.dev](https://api.cerberusai.dev)
 >
 > - ---
 >
 > ### Legacy Archives
 > - Old Profile: [ipwnosx](https://github.com/ipwnosx)
+> - Abaddon System (Retired CLI agent)
 > - 
