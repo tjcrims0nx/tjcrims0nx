@@ -1,7 +1,7 @@
 # Cerberus AI
 > "Local-first inference. Open weights. No corporate guardrails."
 >
-> ![Cerberus Banner](https://capsule-render.vercel.app/api?type=waving&color=ff3d2e&height=250&section=header&text=CERBERUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
+> ![Cerberus Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7e22ce,a855f7,c084fc&height=250&section=header&text=CERBERUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 >
 > ### Active Terminal
 > - Currently Building: **[Cerberus AI](https://cerberusai.dev)** - Uncensored local language models and a Tauri-based desktop app.
